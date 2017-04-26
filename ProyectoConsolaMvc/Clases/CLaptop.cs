@@ -10,4 +10,3 @@ namespace ProyectoConsolaMvc.Clases
         public int NumeroSerie { get; set; }
     }
 }
-}
