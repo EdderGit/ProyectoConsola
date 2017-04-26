@@ -7,8 +7,8 @@ namespace ProyectoConsolaMvc.Clases
 {
     public class COperaciones
     {
-        public string Valor { get; set; }
-    ;
+        public string Valor  { get; set; }
+        public string Valor2 { get; set; }
 
 
     }
