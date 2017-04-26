@@ -6,7 +6,7 @@ using System.Web.Mvc;
 
 namespace ProyectoConsolaMvc.Clases
 {
-  Public class CProyecto
+  public class CProyecto
   {
     public string Nombre { get; set;}
   }
