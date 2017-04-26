@@ -8,5 +8,10 @@ namespace ProyectoConsolaMvc.Controllers
 {
     public class UsuarioController : Controller
     {
+        public ActionResult Index()
+        {
+            return View();
+        }
+
     }
 }
